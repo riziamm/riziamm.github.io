@@ -15,7 +15,7 @@ redirect_from:
 
 <!-- <img style="float: right;" src="/images/500x300.png"> -->
 
-👩‍🎓  In December 2022, I received my Ph.D. from the Department of Aerospace & Mechanical Engineering at the University of Texas at El Paso, where I was a member of the NASA MIRO Aerospace Center's (cSETR) Drone team. I was fortunate to be advised by Dr. Angel Fores-Abad and Dr. Ahsan Choudhuri. Throughout my doctoral studies, I had the privilege of participating in a range of impactful projects, in collaboration with industrial partners and generously funded by the National Energy Technology Laboratory (NETL) of the U.S. Department of Energy (from 2018 to 2022).
+👩‍🎓  In December 2022, I received my Ph.D. from the Department of Aerospace & Mechanical Engineering at the University of Texas at El Paso, where I was a member of the NASA MIRO Aerospace Center's (cSETR) Drone team. I was fortunate to be advised by Dr. Angel Fores-Abad and Dr. Ahsan Choudhuri. Throughout my doctoral studies, I had the privilege of participating in a range of impactful projects, in collaboration with industrial partners and generously funded by the National Energy Technology Laboratory (NETL) of the U.S. Department of Energy (DOE) from 2018 to 2022.
 
 🎖️ I am originally from Dhaka, Bangladesh. I served in the Bangladesh Air Force as a Maintenance Engineering Officer for over a decade, retiring as a Squadron Leader. I was awarded the prestigious Chief of Air Staff's trophy as the best all-rounder from the Air Force Academy.
 
