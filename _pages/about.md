@@ -7,25 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of Applied DL for Computer Vision applications](/images/500x300.png){:.align-right width="300px"}
+![Illustration of Applied DL for Computer Vision applications](/images/500x300.png){:.align-right width="200px"}
 
 👩‍💻  I'm a research fellow at the Australian National University's Neuroinformatic group, working with Dr. Hanna Suominen. 
 
-🤖 My research interests are in advanced computer vision and deep learning, with a focus on developing intelligent systems and health informatics. I have research background in autonomous navigation, AI-enabled intelligent aerial inspection, and computational fluid dynamics. I am passionate about pushing the boundaries of computer vision and machine learning for real-world problem-solving by developing practical and scalable solutions in the realm of healthcare. 
+🤖 My research interests are in advanced computer vision and deep learning, focusing on creating intelligent systems to assist humans. I have a research background in autonomous navigation, AI-enabled intelligent aerial inspection, and computational fluid dynamics. I am passionate about pushing the boundaries of computer vision and machine learning to solve real-world problems, particularly in the fields of healthcare and maintenance, by developing practical and scalable solutions.
 
 <!-- <img style="float: right;" src="/images/500x300.png"> -->
 
-👩‍🎓  In December 2022, I received my Ph.D. from the Department of Aerospace & Engineering at the University of Texas at El Paso, where I was a member of the NASA MIRO Aerospace Center's (cSETR) Drone team. I was fortunate to be advised by Dr. Angel Fores-Abad and Dr. Ahsan Choudhuri. Throughout my doctoral studies, I had the privilege of participating in a range of impactful projects, in collaboration with industrial partners and generously funded by the National Energy Technology Laboratory (NETL) of the U.S. Department of Energy (from 2018 to 2022). -->
+👩‍🎓  In December 2022, I received my Ph.D. from the Department of Aerospace & Mechanical Engineering at the University of Texas at El Paso, where I was a member of the NASA MIRO Aerospace Center's (cSETR) Drone team. I was fortunate to be advised by Dr. Angel Fores-Abad and Dr. Ahsan Choudhuri. Throughout my doctoral studies, I had the privilege of participating in a range of impactful projects, in collaboration with industrial partners and generously funded by the National Energy Technology Laboratory (NETL) of the U.S. Department of Energy (from 2018 to 2022).
 
 🎖️ I am originally from Dhaka, Bangladesh. I served in the Bangladesh Air Force as a Maintenance Engineering Officer for over a decade, retiring as a Squadron Leader. I was awarded the prestigious Chief of Air Staff's trophy as the best all-rounder from the Air Force Academy.
 
-🗺️ Besides my scientific interests, I am an avid traveller; I like to read, hike, and craft in my spare time.
+🗺️ Besides my scientific interests, I am an avid traveler; I like to read, hike, and craft in my spare time.
 
 
 News and Updates
 ======
 
-  - 27/06/2023: Gave a talk as a mentor at the WiPAE (Women* in Physics, Astro & Engineering), ANU's professional developoment [session](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fall-you-ever-wanted-to-know-about-job-applications-tickets-659877700967&data=05%7C01%7CMstMousumi.Rizia%40anu.edu.au%7C39e50e0ac73a430c2bcc08db6d3a2057%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638223868638316706%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zyC1qeCtBaTwCO5xk9UsJX9%2F6IrEgtZHK1aBmlA31QA%3D&reserved=0).
+  - 27/06/2023: Gave a talk as a mentor at the WiPAE (Women* in Physics, Astro & Engineering), ANU's professional development [session](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fall-you-ever-wanted-to-know-about-job-applications-tickets-659877700967&data=05%7C01%7CMstMousumi.Rizia%40anu.edu.au%7C39e50e0ac73a430c2bcc08db6d3a2057%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638223868638316706%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zyC1qeCtBaTwCO5xk9UsJX9%2F6IrEgtZHK1aBmlA31QA%3D&reserved=0).
   - 
 
 
