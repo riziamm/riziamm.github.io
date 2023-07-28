@@ -42,7 +42,7 @@ News and Updates
   - 07/2018: I defended my M.Sc. Thesis!
 
 
-<style>
+<!-- <style>
   footer {
     position: relative;
     height: 300px;
@@ -66,7 +66,7 @@ News and Updates
     Email me at mstmousumi.rizia@anu.edu.au
     2023 Copyright © Mst Mousumi Rizia
   </p>
-</footer>
+</footer> -->
 
 
 
