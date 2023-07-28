@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 <!-- * B.S. in GitHub, GitHub University, 2022 -->
-* Ph.D. in Mechanical Engineering
+* Ph.D. in Mechanical Engineering, 2022
   * Department of Aerospace & Mechanical Engineering
   * The University of Texas at El Paso (UTEP), Texas, USA
   * Result: GPA 4.00/4.00
@@ -24,7 +24,7 @@ Education
   * Result: CGPA 3.83/4.00 
   * Thesis: Wind Effect on Cylinders of Pentagonal, Hexagonal, and Octagonal Sections at different Positions
 
-* B.Sc. in Mechanical Engineering, 2018
+* B.Sc. in Mechanical Engineering, 2011
   * Department of Mechanical Engineering
   * Military Institute of Science and Technology (MIST), Dhaka, Bangladesh
   * Result: CGPA 3.83/4.00 (Summa cum laude – Honours with Distinction)
@@ -138,6 +138,6 @@ Dhaka, Bangladesh
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- Service and leadership
+<!-- Service and leadership -->
 ======
-<!-- * Currently signed in to 43 different slack teams --> -->
+<!-- * Currently signed in to 43 different slack teams -->
