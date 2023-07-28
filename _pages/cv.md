@@ -84,7 +84,9 @@ Dhaka, Bangladesh
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-## TECHNICAL EXPERIENCE
+Technical Experience
+======
+
 * Programming Language
   * Python, MATLAB, C
 * Deep Learning libraries, Data Science Tools & Software
@@ -96,7 +98,9 @@ Dhaka, Bangladesh
 * Teaching Tools
   * BlackBoard, MS Office Suits, Mathmetica, Zoom, ZyBook
 
-## HONORS, AWARDS & GRANTS
+Honors, Awards & Grants
+======
+
 * UTEP Graduate School Summer Research Grant, 2022
 * UTEP Graduate School Travel Grant, 2020
 * Swiss-Bangladesh Travel Grant, 2019
