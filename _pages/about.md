@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of Applied DL for Computer Vision applications](/images/500x300.png){:.align-right width="200px"}
+<!-- ![Illustration of Applied DL for Computer Vision applications](/images/500x300.png){:.align-right width="200px"} -->
 
 👩‍💻  I'm a research fellow at the Australian National University's Neuroinformatic group, working with Dr. Hanna Suominen. 
 
