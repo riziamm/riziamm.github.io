@@ -27,19 +27,47 @@ News and Updates
   - 08/07/2023 - 12/07/2023: Attended MedInfo 2023 - The 19th World Congress on Medical and Health Informatics [session](https://www.linkedin.com/events/medinfo2023-the19thworldcongres6960818956685234177/comments/)
   - 27/06/2023: Gave a talk as a mentor at the WiPAE (Women* in Physics, Astro & Engineering), ANU's professional development [session](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fall-you-ever-wanted-to-know-about-job-applications-tickets-659877700967&data=05%7C01%7CMstMousumi.Rizia%40anu.edu.au%7C39e50e0ac73a430c2bcc08db6d3a2057%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638223868638316706%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zyC1qeCtBaTwCO5xk9UsJX9%2F6IrEgtZHK1aBmlA31QA%3D&reserved=0).
   - 15/05/2023: Moved to ANU to begin my research fellowship!
-  -20/12/2022: Submitted the [final Technical Report: *Autonomous Aerial Power Plant Inspection in GPS-denied Environments* ](https://www.osti.gov/biblio/1905874) for our DOE Project (sponsoring Org: *US DOE Office of Fossil Energy (FE), Office of Clean Energy Systems (FE-22)* ).
+  - 20/12/2022: Submitted the [final Technical Report: *Autonomous Aerial Power Plant Inspection in GPS-denied Environments* ](https://www.osti.gov/biblio/1905874) for our DOE Project (sponsoring Org: *US DOE Office of Fossil Energy (FE), Office of Clean Energy Systems (FE-22)* ).
   - 15/12/2022: We have a new preprint on [Deep Learning based Aerial Intelligent Crack Detection in Infrastructure using Computer Vision at the Edge](https://www.authorea.com/users/566716/articles/613352-intelligent-crack-detection-in-infrastructure-using-computer-vision-at-the-edge?commit=1badfa711b7d4f577d7abae6ae45d71a8c906e3b). 
-  - 01/12/2023: I submitted my PhD dissertation! You can find [the PDF here](https://www.proquest.com/docview/2771312039?pq-origsite=gscholar&fromopenview=true).
+  - 01/12/2022: I submitted my PhD dissertation! You can find [the PDF here](https://www.proquest.com/docview/2771312039?pq-origsite=gscholar&fromopenview=true).
   - 15/11/2022: I defended Ph. D. Dissertation!
-  - 04/08/2022: Presented the closing presentation for our DOE-funded project "Autonomous Aerial Power Plant Inspction in GPS-denied Environments"
-  - 04/07/2022: Our work got featured in the cover of the journal [Robotica Volume 40 - Issue 7] (https://www.cambridge.org/core/journals/robotica/issue/C7E6E90F3873894447C930F18A4DD71C)
+  - 04/08/2022: Presented our work in the closing presentation for our DOE-funded project "Autonomous Aerial Power Plant Inspction in GPS-denied Environments"
+  - 04/07/2022: Our work got featured in the cover of the journal [Robotica Volume 40 - Issue 7](https://www.cambridge.org/core/journals/robotica/issue/C7E6E90F3873894447C930F18A4DD71C)
   - 13/10/2021: Our paper, [Autonomous aerial flight path inspection using advanced manufacturing techniques](https://www.cambridge.org/core/journals/robotica/article/autonomous-aerial-flight-path-inspection-using-advanced-manufacturing-techniques/FCF7EE1742354F0319F8ADD7606C80BD) is accepted for publication in the journal, Robotica.
-  - 08/2021: I started teaching as a Ph. D. instrutor at the [Department of Aerospace & Mechanical Engineering at UTEP](https://www.utep.edu/engineering/mechanical/).
-  - 18/05/2021 - Attended the DOE Crosscutting Research and Advanced Energy Systems Project Review Meeting 2021 and presented [our work](https://netl.doe.gov/sites/default/files/netl-file/21SC_Abad.pdf) on UAV-trajectory generation in GPS-denied areas.
+  - 08/2021: I started teaching as a Ph. D. Instrutor (Course Convennor for Engineering Computation) at the [Department of Aerospace & Mechanical Engineering at UTEP](https://www.utep.edu/engineering/mechanical/).
+  - 18/05/2021 - I attended the DOE Crosscutting Research and Advanced Energy Systems Project Review Meeting 2021 and presented [our work](https://netl.doe.gov/sites/default/files/netl-file/21SC_Abad.pdf) on UAV-trajectory generation in GPS-denied areas.
   - 06-10/01/2020: I attended  AIAA Scitech 2020 Forum in Orlando, Florida and presented [my paper](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0858) on A CAM/AM-based Trajectory Generation Method for Aerial Power Plant Inspection in GPS-denied Environments.
-  - 9-11/04/2019 - Attended the [2019 Project Review Meeting for Crosscutting Research, Rare Earth Elements, Gasification Systems, and Transformative Power Generation](https://netl.doe.gov/events/19CREEGTPG) at Pittsburgh, PA and presented our work on UAV-trajectory generation in GPS-denied areas. 
-  - 08/2018: Started working as a graduate Research Associate at NASA MIRO Centre for Space Exploration & Technology Research (currently known as Aerospace Center at UETP) in the UAV team
-  - 07/2018: I defended M.Sc. Thesis!
+  - 9-11/04/2019 - I attended the [2019 Project Review Meeting for Crosscutting Research, Rare Earth Elements, Gasification Systems, and Transformative Power Generation](https://netl.doe.gov/events/19CREEGTPG) at Pittsburgh, PA and presented our work on UAV-trajectory generation in GPS-denied areas. 
+  - 08/2018: Started working as a graduate Research Associate at **NASA MIRO Centre for Space Exploration & Technology Research**, [**cSETR**](https://www.utep.edu/aerospace/) (currently known as Aerospace Center at UETP) in the UAV team.
+  - 07/2018: I defended my M.Sc. Thesis!
+
+
+<style>
+  footer {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    background-color: #333333;
+  }
+
+  p.copyright {
+    position: absolute;
+    width: 100%;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom:0;
+  }
+</style>
+
+<footer>
+  <p class="copyright">
+    Email me at mstmousumi.rizia@anu.edu.au
+    2023 Copyright © Mst Mousumi Rizia
+  </p>
+</footer>
+
 
 
 
