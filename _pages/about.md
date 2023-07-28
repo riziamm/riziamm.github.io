@@ -32,7 +32,7 @@ News and Updates
   - 01/12/2022: I submitted my PhD dissertation! You can find [the PDF here](https://www.proquest.com/docview/2771312039?pq-origsite=gscholar&fromopenview=true).
   - 15/11/2022: I defended Ph. D. Dissertation!
   - 04/08/2022: Presented our work in the closing presentation for our DOE-funded project "Autonomous Aerial Power Plant Inspction in GPS-denied Environments"
-  - 04/07/2022: Our work got featured in the cover of the journal [Robotica, Volume 40, Issue 7](https://www.cambridge.org/core/journals/robotica/issue/C7E6E90F3873894447C930F18A4DD71C)
+  - 04/07/2022: Our work got featured in the cover of the journal [Robotica](https://www.cambridge.org/core/journals/robotica/issue/C7E6E90F3873894447C930F18A4DD71C)
   - 13/10/2021: Our paper, [Autonomous aerial flight path inspection using advanced manufacturing techniques](https://www.cambridge.org/core/journals/robotica/article/autonomous-aerial-flight-path-inspection-using-advanced-manufacturing-techniques/FCF7EE1742354F0319F8ADD7606C80BD) is accepted for publication in the journal, Robotica.
   - 08/2021: I started teaching as a Ph. D. Instrutor (Course Convennor for Engineering Computation) at the [Department of Aerospace & Mechanical Engineering at UTEP](https://www.utep.edu/engineering/mechanical/).
   - 18/05/2021 - I attended the DOE Crosscutting Research and Advanced Energy Systems Project Review Meeting 2021 and presented [our work](https://netl.doe.gov/sites/default/files/netl-file/21SC_Abad.pdf) on UAV-trajectory generation in GPS-denied areas.
