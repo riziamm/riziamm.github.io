@@ -9,17 +9,19 @@ redirect_from:
 ---
 <!-- ![Illustration of Applied DL for Computer Vision applications](/images/500x300.png){:.align-right width="200px"} -->
 
-👩‍💻  I'm a research fellow at the Australian National University's Neuroinformatic group, working with Dr. Hanna Suominen. 
+I am a Research Fellow in the Neuroinformatics Group at the Australian National University’s School of Computing, working with Professor Hanna Suominen. My research focuses on advanced computer vision and deep learning, with the goal of building intelligent systems that enhance human capabilities.
 
-🤖 My research interests are in advanced computer vision and deep learning, focusing on creating intelligent systems to assist humans. I have a research background in autonomous navigation, AI-enabled intelligent aerial inspection, and computational fluid dynamics. I am passionate about pushing the boundaries of computer vision and machine learning to solve real-world problems, particularly in the fields of healthcare and maintenance, by developing practical and scalable solutions.
+My background spans autonomous navigation, AI‑enabled aerial inspection, and computational fluid dynamics, giving me a strong foundation in both engineering and applied artificial intelligence. I am passionate about pushing the boundaries of computer vision and machine learning to address real‑world challenges, particularly in healthcare and infrastructure maintenance, by developing practical and scalable solutions.
+
+As a committed early‑career academic with nine years of experience in engineering and AI research, I specialize in computer vision, generative AI, and cross‑domain anomaly detection. With roots in mechanical and aerospace engineering, I bring a transdisciplinary perspective to my work. I am driven to leverage this expertise in both research and education to create meaningful impact across academia and industry.
 
 <!-- <img style="float: right;" src="/images/500x300.png"> -->
 
-👩‍🎓  In December 2022, I received my Ph.D. from the Department of Aerospace & Mechanical Engineering at the University of Texas at El Paso, where I was a member of the NASA MIRO Aerospace Center's (cSETR) Drone team. I was fortunate to be advised by Dr. Angel Fores-Abad and Dr. Ahsan Choudhuri. Throughout my doctoral studies, I had the privilege of participating in a range of impactful projects, in collaboration with industrial partners and generously funded by the National Energy Technology Laboratory (NETL) of the U.S. Department of Energy (DOE) from 2018 to 2022.
+In December 2022, I completed my PhD in Aerospace and Mechanical Engineering at the University of Texas at El Paso, where I was part of the NASA MIRO Aerospace Centre’s Drone team (cSETR). I was fortunate to be advised by Dr Angel Fores‑Abad and Dr Ahsan Choudhuri, and throughout my doctoral studies, I contributed to a range of impactful projects in collaboration with industry partners, generously supported by the National Energy Technology Laboratory (NETL) of the U.S. Department of Energy (DOE) between 2018 and 2022.
 
-🎖️ I am originally from Dhaka, Bangladesh. I served in the Bangladesh Air Force as a Maintenance Engineering Officer for over a decade, retiring as a Squadron Leader. I was awarded the prestigious Chief of Air Staff's trophy as the best all-rounder from the Air Force Academy.
+I am originally from Dhaka, Bangladesh, and served in the Bangladesh Air Force as a Maintenance Engineering Officer for over a decade, retiring with the rank of Squadron Leader. During my service, I was honoured with the Chief of Air Staff’s Trophy as the best all‑rounder from the Air Force Academy.
 
-🗺️ Besides my scientific interests, I am an avid traveler; I like to read, hike, and craft in my spare time.
+Besides my scientific interests, I enjoy travelling, reading, hiking, and crafting in my spare time.
 
 
 News and Updates
