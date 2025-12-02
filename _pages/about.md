@@ -27,16 +27,15 @@ Besides my scientific interests, I enjoy travelling, reading, hiking, and crafti
 News and Updates
 ======
 
-- 01/2025: Awarded the **Early Career Researcher (ECR) Research Impact Award** by ANU School of Medicine & Psychology (SMP). [[View Post]](https://www.linkedin.com/posts/anu-medical-school_at-our-schools-recent-research-and-education-activity-7298574869946896384-KFW0)
-  <br>
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7298574868667670528?collapsed=1" height="400" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+- 01/2025: Awarded the **Early Career Researcher (ECR) Research Impact Award** by ANU School of Medicine & Psychology (SMP). [[View Post]](https://www.linkedin.com/posts/anu-medical-school_at-our-schools-recent-research-and-education-activity-7298574869946896384-KFW0) ![Award Photo](images/2025-SMP-ECR-impact-award.png)
 
  - 2025: Seminar Speaker on *"Generative Models and Explainable AI in Neuroinformatics"* at ANU SMP.
 
- - 2025: Workshop Facilitator for *"AI and Ageing"* with Tohoku University Hospital AI Lab & Nagoya University.
+ - 2025: Workshop Facilitator for *"AI and Ageing"* at ANU with Tohoku University Hospital AI Lab & Nagoya University.
 
  - 2024: Awarded Fellowship with the Higher Education Academy (FHEA).
- - 
+  
+ - 2025: Published *"Disentangling Blood-Based Markers of Multiple Sclerosis Through Machine Learning: An Evaluation Study"* at the MedINFO 2025. [https://www.medrxiv.org/content/10.1101/2025.04.02.25325148v1](#)
 
  - 2024: Published *"Understanding the Development of Disease in Radiology Scans"* at IEEE BIBM 2024. [https://ieeexplore.ieee.org/document/10822442/](#)
 
