@@ -27,9 +27,9 @@ Besides my scientific interests, I enjoy travelling, reading, hiking, and crafti
 News and Updates
 ======
 
- - - 01/2025: Awarded the Early Career Researcher (ECR) Research Impact Award by ANU School of Medicine & Psychology (SMP). [placeholder for link] ![placeholder image](#) 
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7298574868667670528?collapsed=1" height="634" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+- 01/2025: Awarded the **Early Career Researcher (ECR) Research Impact Award** by ANU School of Medicine & Psychology (SMP). [[View Post]](https://www.linkedin.com/posts/anu-medical-school_at-our-schools-recent-research-and-education-activity-7298574869946896384-KFW0)
+  <br>
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7298574868667670528?collapsed=1" height="400" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
  - 2025: Seminar Speaker on *"Generative Models and Explainable AI in Neuroinformatics"* at ANU SMP.
 
