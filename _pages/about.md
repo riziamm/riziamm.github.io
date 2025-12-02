@@ -26,6 +26,20 @@ Besides my scientific interests, I enjoy travelling, reading, hiking, and crafti
 
 News and Updates
 ======
+
+ - - 01/2025: Awarded the Early Career Researcher (ECR) Research Impact Award by ANU School of Medicine & Psychology (SMP). [placeholder for link] ![placeholder image](#) 
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7298574868667670528?collapsed=1" height="634" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+ - 2025: Seminar Speaker on *"Generative Models and Explainable AI in Neuroinformatics"* at ANU SMP.
+
+ - 2025: Workshop Facilitator for *"AI and Ageing"* with Tohoku University Hospital AI Lab & Nagoya University.
+
+ - 2024: Awarded Fellowship with the Higher Education Academy (FHEA).
+ - 
+
+ - 2024: Published *"Understanding the Development of Disease in Radiology Scans"* at IEEE BIBM 2024. [https://ieeexplore.ieee.org/document/10822442/](#)
+
   - 08/07/2023 - 12/07/2023: Attended MedInfo 2023 - The 19th World Congress on Medical and Health Informatics [session](https://www.linkedin.com/events/medinfo2023-the19thworldcongres6960818956685234177/comments/)
   - 27/06/2023: Gave a talk as a mentor at the WiPAE (Women* in Physics, Astro & Engineering), ANU's professional development [session](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fall-you-ever-wanted-to-know-about-job-applications-tickets-659877700967&data=05%7C01%7CMstMousumi.Rizia%40anu.edu.au%7C39e50e0ac73a430c2bcc08db6d3a2057%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C638223868638316706%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zyC1qeCtBaTwCO5xk9UsJX9%2F6IrEgtZHK1aBmlA31QA%3D&reserved=0).
   - 15/05/2023: Moved to ANU to begin my research fellowship!
