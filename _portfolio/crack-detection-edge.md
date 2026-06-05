@@ -11,4 +11,5 @@ Building on the autonomous inspection work, this project detects structural crac
 
 - *Deep Learning based Aerial Intelligent Crack Detection in Infrastructure using Computer Vision at the Edge* (preprint, 2022) — [Authorea](https://www.authorea.com/users/566716/articles/613352-intelligent-crack-detection-in-infrastructure-using-computer-vision-at-the-edge)
 
-[FILL IN: dataset size, detection accuracy, and the edge device used.]
+Detection accuracy: 99%.
+Edge device used: NVIDIA Jetson Nano
