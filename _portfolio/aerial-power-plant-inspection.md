@@ -17,4 +17,3 @@ Power-plant and energy infrastructure are difficult to inspect with drones becau
 - *Autonomous aerial flight path inspection using advanced manufacturing techniques*, **Robotica** (2021) — featured on the [journal cover](https://www.cambridge.org/core/journals/robotica/issue/C7E6E90F3873894447C930F18A4DD71C) — [article](https://www.cambridge.org/core/journals/robotica/article/autonomous-aerial-flight-path-inspection-using-advanced-manufacturing-techniques/FCF7EE1742354F0319F8ADD7606C80BD)
 - *A CAM/AM-based Trajectory Generation Method for Aerial Power Plant Inspection in GPS-denied Environments*, **AIAA SciTech 2020** — [paper](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0858)
 
-[FILL IN: one-line headline result — e.g. inspection coverage, path accuracy, or time saved.]
