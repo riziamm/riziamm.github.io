@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Aerial Power-Plant Inspection in GPS-Denied Environments"
-excerpt: "UAV trajectory generation and edge computer vision for inspecting energy infrastructure where GPS is unreliable. Funded by the US DOE / NETL.<br/><img src='/images/500x300.png'>"
+excerpt: "UAV trajectory generation and edge computer vision for inspecting energy infrastructure where GPS is unreliable. Funded by the US DOE / NETL.<br/><img src='/images/powerplant-insp-drone.png'>"
 collection: portfolio
 date: 2022-12-01
 ---
@@ -17,3 +17,8 @@ Power-plant and energy infrastructure are difficult to inspect with drones becau
 - *Autonomous aerial flight path inspection using advanced manufacturing techniques*, **Robotica** (2021) — featured on the [journal cover](https://www.cambridge.org/core/journals/robotica/issue/C7E6E90F3873894447C930F18A4DD71C) — [article](https://www.cambridge.org/core/journals/robotica/article/autonomous-aerial-flight-path-inspection-using-advanced-manufacturing-techniques/FCF7EE1742354F0319F8ADD7606C80BD)
 - *A CAM/AM-based Trajectory Generation Method for Aerial Power Plant Inspection in GPS-denied Environments*, **AIAA SciTech 2020** — [paper](https://arc.aiaa.org/doi/abs/10.2514/6.2020-0858)
 
+![UAV inspection payload: depth, RGB and thermal cameras, Pixhawk flight controller, and a Jetson Nano companion computer.](/images/drone_hardware.png)
+
+![Planned inspection path (left) versus the path actually flown by the UAV (right).](/images/trajectory-AMvsReal.png)
+
+![Field deployment: setting up inspection experiments inside a power-plant boiler with the DOE-UGIS team.](/images/inspecting-us.png)
