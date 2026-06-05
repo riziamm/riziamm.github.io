@@ -58,7 +58,6 @@ News and Updates
 - **08/2018** — Began as Graduate Research Associate, NASA MIRO Center for Space Exploration & Technology Research (cSETR), UTEP. [cSETR](https://www.utep.edu/aerospace/)
 - **07/2018** — Defended my M.Sc. thesis.
 
-![ECR Research Impact Award](/images/2025-SMP-ECR-impact-award.png)
 
 
 <!-- <style>
