@@ -35,11 +35,11 @@ News and Updates
 - Led computer-vision research on a **US Department of Energy (NETL)–funded** autonomous aerial inspection project (2018–2022).
 
 ---
-- **[2026]** — Finalist, **CHARM 2026 Rising Star Award**.
-- **[2026]** — Awarded the **ISCEV 2026 (Sydney) Travel Grant**.
-- **[2026]** — Oral presentation and student poster accepted at **CHARM 2026**.
-- **[2026]** — Abstract accepted for **oral presentation at IPS 2026, Bern**.
-- **[2026]** — My student Kyar Hsing Ma submitted his thesis titled "D3MRI: Dual-Domain Diffusion for Accelerated Magnetic Resonance Image Reconstruction Integrating Image and k-Space Priors" (ANU School of Computing).
+- **06/2026** — Finalist, **CHARM 2026 Rising Star Award**.
+- **05/2026** — My student Kyar Hsing Ma submitted his thesis titled "D3MRI: Dual-Domain Diffusion for Accelerated Magnetic Resonance Image Reconstruction Integrating Image and k-Space Priors" (ANU School of Computing).
+- **05/2026** — Awarded the **ISCEV 2026 (Sydney) Travel Grant**.
+- **04/2026** — Oral presentation and student poster accepted at **CHARM 2026**.
+- **04/2026** — Abstract accepted for **oral presentation at IPS 2026, Bern**.
 - **05/2026** — Published *Autonomous aerial system for intelligent close-quarter inspection* (open access, equal first author) in the *International Journal of Intelligent Robotics and Applications*. [Article](https://link.springer.com/article/10.1007/s41315-026-00537-8)
 - 
 - **08/2025** — Published *Disentangling Blood-Based Markers of Multiple Sclerosis Through Machine Learning: An Evaluation Study* at MedInfo 2025. [Preprint](https://www.medrxiv.org/content/10.1101/2025.04.02.25325148v1)
