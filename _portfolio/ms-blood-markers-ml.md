@@ -1,6 +1,7 @@
 ---
 title: "Machine Learning for Blood-Based Markers of Multiple Sclerosis"
-excerpt: "Evaluating machine-learning methods to disentangle non-invasive blood-based markers of multiple sclerosis. Presented at MedInfo 2025.<br/><img src='/images/500x300.png'>"
+excerpt: "Evaluating machine-learning methods to disentangle non-invasive blood-based markers of multiple sclerosis. Presented at MedInfo 2025.
+<!-- <br/><img src='/images/500x300.png'>" -->
 collection: portfolio
 date: 2025-08-01
 ---
