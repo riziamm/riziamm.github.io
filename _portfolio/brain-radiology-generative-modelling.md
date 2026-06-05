@@ -1,6 +1,6 @@
 ---
 title: "Deep Generative Modelling of Disease Development in Brain Radiology Scans"
-excerpt: "Using deep generative models to understand and visualise how disease progresses in brain imaging. Presented at IEEE BIBM 2024.<br/><img src='/images/500x300.png'>"
+excerpt: "Using deep generative models to understand and visualise how disease progresses in brain imaging. Presented at IEEE BIBM 2024.<br/><img src='/images/teaser5.png'>"
 collection: portfolio
 date: 2024-12-01
 ---
@@ -19,3 +19,10 @@ Clinical collaborators:
 - Monash Health, Clayton, Victoria, Sydney, NSW, Australia
 
 Dataset: BraTS & OpenBHB
+In a blind expert evaluation, radiologists could distinguish the generated scans from real MRI only 51.67% of the time — close to chance — indicating the synthesised scans were near-indistinguishable from genuine ones.
+
+![Concept: an abnormal region is detected, then re-painted to a normal-appearing brain using a deep generative model.](/images/teaser5.png)
+
+![Ground truth, masked input, and model output on BraTS and OpenBHB brain MRI.](/images/result-openbhb.png)
+
+![Human evaluation: expert radiologists distinguished generated scans from real ones only 51.67% of the time — essentially chance.](/images/BIBM-expert-eval.png)
