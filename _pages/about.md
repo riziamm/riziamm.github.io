@@ -9,6 +9,18 @@ redirect_from:
 ---
 <!-- ![Illustration of Applied DL for Computer Vision applications](/images/500x300.png){:.align-right width="200px"} -->
 
+**Research Fellow, ANU School of Computing** — computer vision, deep generative modelling, and multimodal AI for healthcare and infrastructure. *(Publishes as Mst M. Rizia.)*
+
+  **Recent highlights**
+
+  - Finalist, **CHARM 2026 Rising Star Award**.
+  - **ECR Research Impact Award**, ANU (2025); **Fellow of the Higher Education Academy** (FHEA, 2024).
+  - New **open-access journal paper** (joint first author) on autonomous AI-driven structural inspection, *Int. J. Intelligent Robotics and Applications* (2026).
+  - Deep generative models that re-paint brain MRI so convincingly that expert radiologists tell them from real scans only **51.67%** of the time (IEEE BIBM 2024).
+  - Led computer-vision research on a **US Department of Energy (NETL)–funded** autonomous aerial inspection project (2018–2022).
+
+  ---
+
 I am a Research Fellow in the Neuroinformatics Group at the Australian National University’s School of Computing, working with Professor Hanna Suominen. My research focuses on advanced computer vision and deep learning, with the goal of building intelligent systems that enhance human capabilities.
 
 My background spans autonomous navigation, AI‑enabled aerial inspection, and computational fluid dynamics, giving me a strong foundation in both engineering and applied artificial intelligence. I am passionate about pushing the boundaries of computer vision and machine learning to address real‑world challenges, particularly in healthcare and infrastructure maintenance, by developing practical and scalable solutions.
@@ -26,15 +38,6 @@ Besides my scientific interests, I enjoy travelling, reading, hiking, and crafti
 
 News and Updates
 ======
-**Recent highlights**
-
-- Finalist, **CHARM 2026 Rising Star Award**, with an accepted oral presentation.
-- New **open-access journal paper** (equal first author) on autonomous AI-driven structural inspection (*Int. J. Intelligent Robotics and Applications*, 2026).
-- Recipient of the ANU **Early Career Researcher Research Impact Award** (2025).
-- **Fellow of the Higher Education Academy** (FHEA, 2024).
-- Led computer-vision research on a **US Department of Energy (NETL)–funded** autonomous aerial inspection project (2018–2022).
-
----
 - **06/2026** — Finalist, **CHARM 2026 Rising Star Award**.
 - **05/2026** — My student Kyar Hsing Ma submitted his thesis titled "D3MRI: Dual-Domain Diffusion for Accelerated Magnetic Resonance Image Reconstruction Integrating Image and k-Space Priors" (ANU School of Computing).
 - **05/2026** — Awarded the **ISCEV 2026 (Sydney) Travel Grant**.
@@ -45,7 +48,7 @@ News and Updates
 - **08/2025** — Published *Disentangling Blood-Based Markers of Multiple Sclerosis Through Machine Learning: An Evaluation Study* at MedInfo 2025. [Preprint](https://www.medrxiv.org/content/10.1101/2025.04.02.25325148v1)
 - **07/2025** — Seminar speaker on *Generative Models and Explainable AI in Neuroinformatics* at ANU SMP.
 - **06/2025** — Workshop facilitator for *AI and Ageing* at ANU, with Tohoku University Hospital AI Lab & Nagoya University.
-- **01/2025** - Awarded the **Early Career Researcher (ECR) Research Impact Award** by ANU School of Medicine & Psychology (SMP). [[View Post]](https://www.linkedin.com/posts/anu-medical-school_at-our-schools-recent-research-and-education-activity-7298574869946896384-KFW0) ![Award Photo](images/2025-SMP-ECR-impact-award.png)
+- **01/2025** - Awarded the **Early Career Researcher (ECR) Research Impact Award** by ANU School of Medicine & Psychology (SMP). [[View Post]](https://www.linkedin.com/posts/anu-medical-school_at-our-schools-recent-research-and-education-activity-7298574869946896384-KFW0) ![Mousumi Rizia received the ANU ECR Research Impact Award in Brain, Mental Processes and Health.](images/2025-SMP-ECR-impact-award.png)
 
 - **12/2024** — Published *Understanding the Development of Disease in Radiology Scans of the Brain through Deep Generative Modelling* at IEEE BIBM 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10822442/)
 - **11/2024** — Awarded Fellowship of the Higher Education Academy (FHEA).
